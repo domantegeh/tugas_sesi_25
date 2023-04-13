@@ -1,0 +1,20 @@
+{
+  "name": "api_harisenin",
+  "version": "1.0.0",
+  "description": "Ini adalah tugas pada sesi 25",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "build": "node src/index.js"
+  },
+  "author": "Ida Nyoman Tegeh Adnyana",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "latest"
+  },
+  "dependencies": {
+    "express": "latest",
+    "cors": "latest",
+    "dotenv": "latest"
+  }
+}
